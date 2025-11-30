@@ -1,0 +1,1 @@
+../../../star/test_suite/hb_2M/README.rst

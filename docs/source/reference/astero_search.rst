@@ -1,0 +1,1 @@
+../../../astero/defaults/astero_search.defaults

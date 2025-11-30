@@ -1,0 +1,1 @@
+../../../star/test_suite/wd_aic/README.rst

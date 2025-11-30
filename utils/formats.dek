@@ -1,0 +1,7 @@
+ 1       format(a40,99(1pe26.16))
+ 2       format(a40,i6,99(1pe26.16))
+ 3       format(a40,2i6,99(1pe26.16))
+ 4       format(a40,3i6,99(1pe26.16))
+ 11      format(a40,99(i26))
+ 12      format(a40,99(f26.16))
+ 
